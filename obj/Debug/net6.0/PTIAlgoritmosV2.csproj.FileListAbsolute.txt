@@ -1,0 +1,15 @@
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\bin\Debug\net6.0\PTIAlgoritmosV2.exe
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\bin\Debug\net6.0\PTIAlgoritmosV2.deps.json
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\bin\Debug\net6.0\PTIAlgoritmosV2.runtimeconfig.json
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\bin\Debug\net6.0\PTIAlgoritmosV2.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\bin\Debug\net6.0\PTIAlgoritmosV2.pdb
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.csproj.AssemblyReference.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.AssemblyInfoInputs.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.AssemblyInfo.cs
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.csproj.CoreCompileInputs.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\refint\PTIAlgoritmosV2.dll
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.pdb
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\PTIAlgoritmosV2.genruntimeconfig.cache
+C:\Users\Jhonatan\Documents\Exemplos de Atividades\PTIAlgoritmosV2\obj\Debug\net6.0\ref\PTIAlgoritmosV2.dll
